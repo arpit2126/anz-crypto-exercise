@@ -1,0 +1,15 @@
+.positivePanelPercentage {
+    background-color: green;
+}
+
+.negativePanelPercentage {
+    background-color: red;
+}
+
+.positivePanelPrice {
+    background-color: lightgreen;
+}
+
+.negativePanelPrice {
+    background-color: lightpink;
+}

@@ -1,0 +1,27 @@
+.cryptoRow {
+    display: flex;
+    width: 96%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    border: 1px solid #eee;
+}
+
+.cryptoName {
+    color: darkcyan;
+    width: 15%;
+}
+
+.cryptoPrice {
+    margin-left: 50%;
+    width: 15%;
+}
+
+.cryptoChange {
+    padding: 5px;
+    /*margin-left: 30px;*/
+    display: inline-flex;
+    border-radius: 3px;
+    width: 20%;
+    text-align: right;
+}
